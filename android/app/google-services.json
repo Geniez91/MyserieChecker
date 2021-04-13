@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "404705951791",
+    "project_id": "myseriechecker-ccf3c",
+    "storage_bucket": "myseriechecker-ccf3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404705951791:android:11ae0494aaed53167846da",
+        "android_client_info": {
+          "package_name": "com.myseriechecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404705951791-a6rl90hs46jhe2ftqgatmq318etho1l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Qn0WTMe4ZCg4UxkvDqLWiQbNILQUst8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404705951791-a6rl90hs46jhe2ftqgatmq318etho1l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
